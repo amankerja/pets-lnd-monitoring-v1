@@ -1,0 +1,912 @@
+﻿[
+    {
+        "title":  "General OHSE Induction",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "HR Induction",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Specific Area Induction",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Fatigue Management \u0026 Fit to Work Awareness",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Hazard Awareness* (Radiasi, Chemical)",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Basic First Aid Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Basic Fire Fighting Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "M-Safe Training (Include Selamatkah, SBO, TAHAN, Hazob)",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Basic Permit to Work Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Working at Height Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Power \u0026 Hand Tool Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Isolation and Lock Out Tag Out (LOTO 1) Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Isolation and Lock Out Tag Out (LOTO 2) Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Working at Confined Space Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Working at Near Water Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Job Safety Environmental Analysis (JSEA) Training",
+        "category":  "Health \u0026 Safety",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "5 S ( Housekeeping Program )",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Domestic Waste Management Awareness",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Spotter \u0026 Blindspot Awareness",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Critical Risk Management (CRM) - PERIKSA",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Workplace Inspection Awareness",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Lighting Awareness",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Geotechnical Hazard Awareness",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Hand Injury Prevention Awareness",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Manual Handling \u0026 Ergonomic Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Electrical Safety Awareness",
+        "category":  "Processing",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Spotter \u0026 Traffic Management Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Baseline Risk \u0026 Opportunity Assessment (BROA)",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "ICAM - Basic Investigator - Internal",
+        "category":  "Health \u0026 Safety",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "MOC - Management of Change Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Defensive Driving Training - Light Vehicle Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Defensive Driving Training - DT \u0026 Manhaul Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Fire Hydrant Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Emergency Warden Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Infectious Waste Management Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Hazardous Material \u0026 Waste Management Training",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Safety Data Sheet (SDS) Awareness",
+        "category":  "Safety Mandatory",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Specific Personal Protective Equipment Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Safety Leadership Training",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Cyanide First Aid \u0026 Antidote Handling",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Pengawas Operational Pratama (POP) - ESDM \u0026 BNSP",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Pengawas Operasional Madya (POM) - ESDM \u0026 BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Pengawas Operational Utama (POU) - ESDM \u0026 BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "SIO Forklift Class II - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "SIO Mobile Crane Class II - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "SIO Mobile Crane Class III - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "SIO OHC Class III - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "SIO Manlift - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Juru Ikat (Rigging) - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Umum - BNSP \u0026 KEMNAKER",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Kimia - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Alat Angkat - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "AK3 Konstruksi - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Kebakaran Kelas A",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Kebakaran Kelas B",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Kebakaran Kelas C",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Kebakaran Kelas D",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Teknisi K3 Listrik - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Teknisi Perancah - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Scafolding Supervisor - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Juru Ledak Kelas 1 - ESDM \u0026 BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Juru Ledak Kelas 2 - ESDM \u0026 BNSP",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Juru Bor Peledakan Tambang Terbuka - ESDM \u0026 BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Juru Pengeboran Air Tanah - ESDM \u0026 BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Juru Ukur Tambang - ESDM \u0026 BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Implementasi SMKP - KaIT",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Auditor SMKP - KaIT",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ketua Tim Penyusun AMDAL - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Anggota Tim Penyusun AMDAL - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas P3K - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "HIPERKES - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas Kimia - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas K3 Ruang Terbatas Muda - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas K3 Ruang Terbatas Madya - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas K3 Ruang Terbatas Utama - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas Proteksi Radiasi Industri Tingkat 1 (Operator) - BAPETEN",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas Proteksi Radiasi Industri Tingkat 2 (Ahli) - BAPETEN",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Defensive Driving Light Vehicle - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Operator Pesawat Uap Kelas 1 - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Operator Pesawat Uap Kelas 2 - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Inspektur Bejana Tekan - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas Pengambil Contoh Uji Air (PCUA) - BNSP",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Penanggung Jawab Operasional Pengolahan Air Limbah (POPAL) - BNSP",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Penanggung Jawab Pengendalian Pencemaran Air (PPPA) - BNSP",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Penanggung Jawab Operasional Instalasi Pengendalian Pencemaran Udara (POIPU)- BNSP",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Penanggung Jawab Pengendalian Pencemaran Udara - PPPU - BNSP",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Penanggung Jawab Pengelolaan Limbah B3 (PLB3)-BNSP",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Higiene Industri Muda [HIMU] - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Higiene Industri Madya [HIMA] - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Higiene Industri Utama [HIU] - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Auditor SMK3 - KEMNAKER \u0026 BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Tenaga Kerja Pada Ketinggian (TKPK) 1 - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Tenaga Kerja Pada Ketinggian (TKPK) 2 - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Tenaga Kerja Pada Ketinggian (TKPK) 3 - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Tenaga Kerja Bangunan Tinggi (TKBT) 1 - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Tenaga Kerja Bangunan Tinggi (TKBT) 2 - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Muda Lingkungan Kerja - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Madya Lingkungan Kerja - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Utama Lingkungan Kerja - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas Penanganan Bahaya Gas H2S - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Operator Genset - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Inspektur Genset - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Juru Las - BNSP \u0026 KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Inspektur Las - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Train of Trainer level 3 - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Train of Trainer level 4 - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 45001:2018 - Occupational Health \u0026 Safety Management System Requirement \u0026 Implementation - Certification Body",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 45001:2018 - Occupational Health \u0026 Safety Management System Internal Auditor - Certification Body",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Life Cycle Assessment - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Manager Energi - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Petugas Keamanan Sumber Radioaktif - BAPETEN",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Operator Chainsaw - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Ahli K3 Listrik - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 14001:2015 - Environment Management System Requirement \u0026 Implementation - Certification Body",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 14001:2015 - Environment Management System Internal Auditor - Certification Body",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 9001:2015 - Quality Management System Requirement \u0026 Implementation - Certification Body",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 9001:2015 - Quality Management System Internal Auditor - Certification Body",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 45001:2018 - Occupational Health \u0026 Safety Management System Lead Auditor - IRCA",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 14001:2015 - Environment Management System Lead Auditor - IRCA",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 9001:2015 - Quality Management System Lead Auditor - IRCA",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ISO 14064:2018 - Green House Gas Requirement and Implementation",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ICAM - Lead Investigator - External",
+        "category":  "Lisensi/Sertifikasi",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Confined Space Rescue",
+        "category":  "Emergency Respons",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Working at Slope Training",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "HACCP (Hazard Analysis Critical Point Certification)",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Basic Life Support Level 3",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "SIO Mobile Crane Class I - KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Inpector Crane - KEMENAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Manajer Alat Berat",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Operator Limbah B3 - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Operator Pengendalian Pencemaran Air - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Program Penilaian Peringkat Kinerja Perusahaan dalam Pengelolaan Lingkungan Hidup (PROPER) Training",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Pelaksanaan Reklamasi pada kegiatan Minerba - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Auditor Energi - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "HAR - High Angle Rescue Training",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Motor Vehicle Accident Rescue - BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Hazmat Spill Response Training",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Penyelamatan di air ( Water Rescue )",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Penyelamatan pada Struktur Runtuh (CSSR)",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Authorized Gas Tester Training",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Advanced Trauma Life Support (ATLS)",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Basic Trauma Cardiac Life Support (BTCLS)",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Advanced Trauma Life Support For Nurse",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Prehospital Trauma Life Support Training",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Emergency EKG Course",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Triage Office Course",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Konselor HIV/AIDS",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Inspeksi Hygiene Sanitasi Makanan Sertifikasi BNSP",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "(Health Risk Assessment (HRA) Sertifikasi KEMNAKER",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Dangerous Goods Handling",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Blasting Hazard Awareness",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Survey Hazard Awareness",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Apply OHSE Principles in the Workplace",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Apply Risk Control Processes",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "ISO 37301:2021 Compliance Management Systems",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Diklat Penyusunan RKAB",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Diklat Resolusi Konflik di Kawasan Pertambangan Minerba",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Uji Kompetensi GANISPH CANHUT",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Sertifikasi GIS Tingkat Dasar-Lanjut ( Badan Informasi Geospasial )",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Dasar-dasar AMDAL dan ESIA",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Advance Nursery Management for Mine Rehabilitation and CSR Programmes",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "ArcGIS software advance for Environmental Management",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Basic Micromine or Exploration Software",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Advance Micromine or Exploration Software",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Database Software SQL",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Field Sampling",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Basic Geostatistic",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Geostatistic for Resource",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Basic Resource Estimation",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Advance Resource Estimation",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Grade Control Awaraness",
+        "category":  "Mining/TS",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Communicate In The Workplace",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Plan and Organise Individual Work",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Contribute to Quality Work Outcomes",
+        "category":  "Uncategorized",
+        "executor":  "Internal"
+    },
+    {
+        "title":  "Training Budgeting Techniques \u0026 Cost Control",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Training Komunikasi Efektif dan Hubungan Masyarakat",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Training Negosiasi dan Mediasi",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Training Hukum Pertanahan dan Pertambangan",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Training Penilaian Aset dan Analisis Finansial",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Training Management Proyek",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Seminar Organiasi Profesional MGEI",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    },
+    {
+        "title":  "Legal for Non Legal Professional",
+        "category":  "Uncategorized",
+        "executor":  "External/ In-House"
+    }
+]
